@@ -20,3 +20,6 @@
         <faultSequence/>
     </resource>
 </api>
+
+<!--PATH-->
+<!-- http://localhost:8290/hello/world/?first_name=Vasi&last_name=Haran -->
